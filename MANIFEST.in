@@ -1,3 +1,7 @@
 recursive-include news/templates *
 recursive-include news/static *
 recursive-include news/media *
+include CLASSIFIERS.txt
+include README.md
+include LICENSE
+
